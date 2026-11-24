@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Join over 30 million adventurers worldwide and take part in an epic and ever-changing FINAL FANTASY. Experience an unforgettable story, exhilarating battles, and a myriad of captivating environments to explore.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,15 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows® 11 64 bit | macOS Mojave 10.14.3 |
+| **Processor** | Min: Intel® Core™i5-8400 or higher / Rec: Intel® Core™i7-9700 or higher | iMac (Retina 5K, 27-inch Late 2014) or higher |
+| **Memory** | Min: 8 GB RAM / Rec: 16 GB RAM | 4 GB RAM |
+| **Graphics** | Min: NVIDIA GeForce GTX 970 or higher, AMD Radeon RX 480 or … / Rec: NVIDIA GeForce RTX 2060 or higher, AMD Radeon RX 5600 X… | AMD Radeon™ R9 M295X or higher |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 140 GB available space | 60 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **Sound Card** | DirectSound® supported sound card | DirectSound® supported sound card |
+| **Additional Notes** | System Requirements may be subject to change. If you ar… | If you are using a router, please set up your ports so … |
 
 ---
 
